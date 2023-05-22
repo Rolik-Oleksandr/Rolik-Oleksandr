@@ -1,7 +1,7 @@
 # Hi there 👋
 <H2>🌱 I’m currently learning Java & Spring</H2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rolik-Oleksandr&show_icons=true&theme=tokyonight" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Rolik-Oleksandr&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolik-Oleksandr&size_weight=0.5&count_weight=0.5" />
 
  
