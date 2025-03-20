@@ -1,12 +1,14 @@
 # Hi there 👋
+<!--
 <H2>🌱 I’m currently learning Java & Spring</H2>
 
+-->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rolik-Oleksandr&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolik-Oleksandr&size_weight=0.5&count_weight=0.5" />
 
  
  
-
+<!--
 <H1> My technology stack: </H1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +26,7 @@
   </a>
 </p>
 
-<!--
+
 **Rolik-Oleksandr/Rolik-Oleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
